@@ -9,3 +9,4 @@ function map(src, cb) {
 
   return r;
 }
+
